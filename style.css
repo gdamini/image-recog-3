@@ -1,0 +1,60 @@
+.heading{
+    background-color: blue;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 18px 10px grey;
+    color: white;
+}
+
+.heading:hover{
+    background-color: aqua;
+    color: black;
+}
+
+.heading_div{
+    float: none;
+    background: aliceblue;
+    padding: 10px;
+     border-radius:20px ;
+     color: black;
+     box-shadow: 5px 10px 10px grey;
+}
+
+.heading_div2{
+    font-size: 18px;
+    background-color: pink;
+}
+
+.heading_div2:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px aliceblue;
+    font-size: 20px;
+    background-color: darkblue;
+    color: cyan;
+}
+
+.result_para_tag:hover{
+    background-color: lightslategray;
+    color: white;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color:darkorchid ;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border:5px solid blue ;
+    border-radius: 20px;
+    margin-top: 150px;
+}
